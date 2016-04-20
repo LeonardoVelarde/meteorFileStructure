@@ -1,2 +1,1 @@
-Copy this file structure into your meteor app, replacing the 3 default files created by meteor.
-Do not start developing only with this file structure because you need the .meteor (not included in this repository) file created byt he command "meteor create <yourappname>".
+Clone this repository to your computer and starte developing you new Meteor app. The file structure was created for Meteor 1.2.1. I might work with new versions but i'll upload a boileplate project for Meteor 1.3.X soon enough.
